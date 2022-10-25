@@ -2,3 +2,4 @@
 /project/data
 /project/origdata
 \project\MODEL_1.pth
+*.pth
